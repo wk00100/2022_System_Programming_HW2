@@ -1,0 +1,6 @@
+load test1.obj
+show
+run
+unload
+exit
+
